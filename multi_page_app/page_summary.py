@@ -29,4 +29,4 @@ def page_project_summary_body():
 
     st.write(
         f"For additional information, please visit and **read** the "
-        f"[Project README file](https://github.com/ssreelakshmi88/mildew-detection-cherry-leaves_milestonePP5/edit/main/README.md).")
+        f"[Project README file](https://github.com/12061988/detection-of-deseased-leaves/blob/main/README.md).")
