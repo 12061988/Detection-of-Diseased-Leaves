@@ -1,7 +1,7 @@
 import streamlit as st
 
 
-def project_hypothesis_page_body():
+def page_project_hypothesis_body():
     """ Function to display project hypothesis page """
 
     st.header("### Project Hypothesis and Validation")
