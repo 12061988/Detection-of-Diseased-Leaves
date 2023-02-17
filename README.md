@@ -15,3 +15,41 @@ To save time in this process, the IT team suggested an ML system that is capable
 
 - 1 - The client is interested in conducting a study to visually differentiate a cherry leaf that is healthy and that contains powdery mildew.
 - 2 - The client is interested to predict if a cherry leaf is healthy or contains powdery mildew.
+
+## Hypothesis and validation
+
+- We suspect mildew infected cherry leaves have unclear marks/signs, the mildew is light roughly-circular, powdery looking patches on young, susceptible leaves.
+
+- A average image study can help to investigate it
+
+- An Image Montage, shows that typically mildew infected leaves has white marks across. Average Image, Variability Image and Difference between Averages studies didn't reveal any clear pattern to differentiate one to another.
+
+## Rationale to map the business requirements to the Data Visualizations and ML tasks
+
+Business Requirement 1: Data Visualization
+
+We will display the "mean" and "standard deviation" images for parasitized and uninfected leaves. We will display the difference between an average parasitized leaves and an average uninfected leaves. We will display a image montage for either parasitized or uninfected leaves.
+
+Business Requirement 2: Classification
+
+We want to predict if a given leaf is infected or not with mildew. We want to build a binary classifier and generate reports.
+
+Our general process in the following list
+
+- Business understanding
+- Data understanding
+- Data preparation
+- Modelling
+- Evaluation
+- Deployment
+
+## ML Business Case
+
+- We want a ML model to predict if a leaf is infected with mildew or not, based on historical image data. It is a supervised model, a 2-class, single-label, classification model.
+- Our ideal outcome is provide the Farm team a faster and reliable diagnostic if a given leaf is infected or not with mildew.
+
+## Dashboard Design (Streamlit App User Interface)
+
+
+
+
