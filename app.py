@@ -8,11 +8,11 @@ from multi_page_app.ml_performance import page_ml_performance_metrics
 
 app = MultiPage(app_name= "Detection of Deseased Leaves")
 
-app.add_page("Quick Project Summary", page_summary_body)
+app.add_page("Quick Project Summary", page_project_summary_body)
 app.add_page("Cherry leave Visualizer", page_cells_visualizer_body)
 app.add_page("Mildew Detection", page_mildew_detector_body)
 app.add_page("Project Hypothesis", page_project_hypothesis_body)
 app.add_page("ML Performance Metrics", page_ml_performance_metrics)
 
-app.run() # Run the  app
+app.run() 
 
