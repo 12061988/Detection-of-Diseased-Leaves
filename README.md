@@ -107,7 +107,7 @@ Menu on Streamlit Dashboard
 
 ## Credits 
 
-- Code institute walkthrough project 1
+- Code institute walkthrough project 1 (Malaria detector)
 - Several tutorials online (Youtube and Google) as inspiration in order to make my own project.
 
 
