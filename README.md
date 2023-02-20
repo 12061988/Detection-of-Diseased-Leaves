@@ -50,6 +50,36 @@ Our general process in the following list
 
 ## Dashboard Design (Streamlit App User Interface)
 
+Menu on Streamlit Dashboard
+
+Quick Project Summary
+
+ Powdery mildew is a parasitic fungal disease caused by Podosphaera clandestina in cherry trees.
+ Infected plants display white powdery spots on the leaves and stems. The lower leaves are the most affected.
+ As the infection progresses, the spots get larger and denser and it may spread to other parts of plant. 
+ The disease occurs mostly in high humid and moderate temperatures showing devastating effects on the life of the host plant reducing plant harvest.
+ 
+ 
+Cherry leave Visualizer
+
+The client is interested to have a study to visually differentiate a powdery mildew infected cherry leaf and healthy cherry leaf.
+Checkbox1: Difference between average image and variability image.
+Checkbox2: Differences between average powdery mildew infected and average healthy leaves.
+Checkbox3: Image montage.
+Mildew detection
+
+The client is interested to tell whether a given leaf contains mildew or not. The client can download the dataset of mildew infected cherry leaves and uninfected cherry leaves for live evaluation.
+Project Hypothesis
+
+We suspect mildew infected cherry leaves have unclear marks/signs, the mildew is light roughly-circular, powdery looking patches on young, susceptible leaves.
+ML Performance Metrics
+
+Train, Validation and Test Set: Labels Frequencies
+Model History - Accuracy and Losses
+ 
+    
+
+
 
 
 
