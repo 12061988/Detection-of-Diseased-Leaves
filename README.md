@@ -107,8 +107,8 @@ Menu on Streamlit Dashboard
 
 ## Credits 
 
-Code institute walkthrough project 1
-Several tutorials online (youtube and Google)
+- Code institute walkthrough project 1
+- Several tutorials online (Youtube and Google) as inspiration in order to make my own project.
 
 
  
