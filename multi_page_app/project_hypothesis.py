@@ -9,13 +9,13 @@ def page_project_hypothesis_body():
     st.info(
         f"* 1 - Cherry Leaves infected with powdery mildew have white, powdery spots or "
         f"patches on the top side of  leaves or on plant stems."
-        f" 2 -The powdery surface growth gradually spreads to cover the entire"
+        f" 2 - The powdery surface growth gradually spreads to cover the entire"
         f" leaf, including the undersides, until the plant looks like it's "
         f"dusted with white powder.\n"
-        f" 3- We believe that these types of features should be sufficient"
+        f" 3 - We believe that these types of features should be sufficient"
         f" to differentiate a healthy leaf and an infected "
         f" leaf.\n"
-        f" 4- The ML model will be able to distinguish between a healthy cherry leaf "
+        f" 4 - The ML model will be able to distinguish between a healthy cherry leaf "
         f" and an infected cherry leaf with at least 96% accuracy.\n"
     )
 
