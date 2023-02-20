@@ -85,7 +85,7 @@ Menu on Streamlit Dashboard
 ## Deployment
 ### Render
 
-* The App live link is: https://mildew-detector.onrender.com
+* The App live link is: (https://detection-of-deseased-leaves.onrender.com/)
 * The project was deployed to Render using the following steps.
 
 1. Log in to Render and create an App
