@@ -16,7 +16,7 @@ def page_project_hypothesis_body():
         f" to differentiate a healthy leaf and an infected "
         f" leaf.\n"
         f" 4- The ML model will be able to distinguish between a healthy cherry leaf "
-        f" and an infected cherry leaf with at least 97% accuracy.\n"
+        f" and an infected cherry leaf with at least 96% accuracy.\n"
     )
 
     st.success(
@@ -31,5 +31,5 @@ def page_project_hypothesis_body():
         f" there were no patterns to identify them by shape."
 
         f" 4 - ML pipeline performance was evaluated and it differentiates a healthy leaf and an infected leaf "
-        f" with at least 97% accuracy.\n\n"
+        f" with at least 96% accuracy.\n\n"
     )

@@ -6,7 +6,7 @@ from multi_page_app.Mildew_detector import page_mildew_detector_body
 from multi_page_app.project_hypothesis import page_project_hypothesis_body
 from multi_page_app.ml_performance import page_ml_performance_metrics
 
-app = MultiPage(app_name= "Detection of Deseased Leaves")
+app = MultiPage(app_name= "Detection of Diseased Leaves")
 
 app.add_page("Quick Project Summary", page_project_summary_body)
 app.add_page("Cherry leave Visualizer", page_cells_visualizer_body)

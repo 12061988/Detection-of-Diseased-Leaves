@@ -2,7 +2,7 @@ import streamlit as st
 
 
 def page_project_summary_body():
-    st.title("A Brief Summary of Project")
+    st.title("Quick project summary")
 
     st.header("General Information")
 
@@ -13,6 +13,7 @@ def page_project_summary_body():
         f" The disease occurs mostly in high humid and moderate temperatures showing devastating "
         f" effects on the life of the host plant reducing plant harvest."
     )
+
 
     st.info(
         f"**Project Dataset**\n\n"
